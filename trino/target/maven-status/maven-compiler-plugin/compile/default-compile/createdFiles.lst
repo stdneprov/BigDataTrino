@@ -1,0 +1,5 @@
+ru\bigdata\trino\model\SaleDto.class
+ru\bigdata\trino\TrinoApplication.class
+ru\bigdata\trino\utils\SaleMapper.class
+ru\bigdata\trino\service\EtlJobGetData.class
+ru\bigdata\trino\configuration\ApplicationCOnfiguration.class
